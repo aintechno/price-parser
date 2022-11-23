@@ -1,0 +1,19 @@
+{
+    "phones": {
+        "13": [
+
+        ],
+        "14": [
+            {
+                "shop": "citilink",
+                "url": "https://www.citilink.ru/product/smartfon-apple-iphone-14-a2881-128gb-goluboi-3g-4g-6-1-iphone-ios-16-8-1859460/",
+                "price-selector": "ProductPagePriceSection__default-price-value"
+            },
+            {
+                "shop": "dns",
+                "url": "https://www.dns-shop.ru/product/4020586a3ef6ed20/61-smartfon-apple-iphone-14-128-gb-goluboj/",
+                "price-selector": "product-buy__price"
+            }
+        ]
+    }
+}
